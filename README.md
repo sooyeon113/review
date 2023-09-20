@@ -18,7 +18,9 @@
 ### 1.4 Skills
 Skill|Experience|Note
 |---|---|---
-Python|3년|시각화 및 프로젝트 진행 가능
-R|3년|시각화 및 프로젝트 진행 가능
+Python|3년|
+R|3년|
 SQL|1년|SQLD 자격증 취득
-Tableau|1년|시각화 가능
+
+
+
