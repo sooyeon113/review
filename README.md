@@ -16,11 +16,8 @@
 - 제 9회 숭실대 글로벌 적정기술 창의설계 경진대회 장려상
 
 ### 1.4 Skills
-Skill|Experience|Note
-|---|---|---
-Python|3년|
-R|3년|
-SQL|1년|SQLD 자격증 취득
+- Python
+- R
 
 
 
